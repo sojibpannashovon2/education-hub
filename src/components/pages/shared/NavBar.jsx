@@ -1,8 +1,23 @@
-import React from 'react';
+import React, { useContext } from 'react';
 
 
 import { Link } from 'react-router-dom';
+import { authContext } from '../../../providers/AuthProvider';
+import { FaUser, FaUserCheck, FaUserAlt, FaUserCircle, FaUserLock } from 'react-icons/fa';
 const NavBar = () => {
+
+    const { user, logout } = useContext(authContext)
+
+    // console.log(cart);
+    const handleLogOut = () => {
+        logout()
+            .then(() => {
+                alert("Successfully LogOut")
+            })
+            .catch(error => {
+                console.log(error);
+            })
+    }
 
     const navLink = <>
 
@@ -44,8 +59,23 @@ const NavBar = () => {
             </div> */}
             <div className="navbar-end justify-end">
 
-                <Link to='/login' className="btn btn-sm">Login</Link>
-                {/* <a className="btn btn-sm">Login</a> */}
+                {
+                    user ?
+                        <>
+                            {/* <FaUser></FaUser>
+                            <FaUserCheck></FaUserCheck>
+                            <FaUserAlt></FaUserAlt>
+                            <FaUserCircle></FaUserCircle> */}
+                            <FaUserLock className='w-10'></FaUserLock>
+                            <span className='text-white mr-6'>{user.displayName}</span>
+                            <li onClick={handleLogOut} className='btn btn-danger btn-sm'>LogOut</li>
+                        </>
+                        :
+                        <Link to='/login' className="btn btn-sm">Login</Link>
+
+                }
+
+
             </div>
         </div>
     );
