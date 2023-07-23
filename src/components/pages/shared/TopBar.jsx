@@ -21,7 +21,7 @@ const TopBar = () => {
             </div>
         </>
 
-    ); s
+    );
 };
 
 export default TopBar;

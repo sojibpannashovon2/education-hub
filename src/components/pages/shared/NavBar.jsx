@@ -42,9 +42,11 @@ const NavBar = () => {
             {/* <div className="form-control">
                 <input type="text" placeholder="Search" className="input input-bordered w-24 md:w-auto" />
             </div> */}
-            {/* <div className="navbar-end">
-                <a className="btn">Button</a>
-            </div> */}
+            <div className="navbar-end justify-end">
+
+                <Link to='/login' className="btn btn-sm">Login</Link>
+                {/* <a className="btn btn-sm">Login</a> */}
+            </div>
         </div>
     );
 };
