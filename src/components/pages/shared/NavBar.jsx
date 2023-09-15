@@ -22,10 +22,10 @@ const NavBar = () => {
     const navLink = <>
 
         <li>
-            <Link>Home</Link>
+            <Link to={`/`}>Home</Link>
         </li>
         <li>
-            <Link>Colleges</Link>
+            <Link to={`/colleges`}>Colleges</Link>
         </li>
 
         <li> <Link>Admission</Link></li>

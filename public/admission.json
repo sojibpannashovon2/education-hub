@@ -1,0 +1,194 @@
+[
+    {
+        "college_image": "https://www.beingguru.com/wp-content/uploads/2023/04/Harvard-University-is-offering-free-online-courses-758x426.png",
+        "college_name": "Harvard University",
+        "admission_dates": {
+            "fall": "September 1, 2023",
+            "spring": "January 15, 2024"
+        },
+        "events": [
+            "Freshman Convocation",
+            "Harvard-Yale Football Game",
+            "Science Symposium"
+        ],
+        "research_history": "Harvard University is renowned for its extensive research contributions in various disciplines.",
+        "sports": {
+            "categories": [
+                "Rowing",
+                "Basketball",
+                "Fencing",
+                "Soccer"
+            ]
+        },
+        "admission_process": "Prospective students need to submit a comprehensive application including essays and recommendation letters.",
+        "events_details": "The Freshman Convocation welcomes new students to the Harvard community and marks the beginning of their academic journey.",
+        "research_works": {
+            "title": "Advancements in Biotechnology",
+            "authors": "Emily Brown",
+            "publication_date": "June 2023",
+            "description": "This research paper highlights recent breakthroughs in biotechnology and their potential applications."
+        },
+        "college_rating": 4.9,
+        "number_of_research": 72
+    },
+    {
+        "college_image": "https://www.ox.ac.uk/sites/files/oxford/field/field_image_main/OUImages_100003_crop2.jpg",
+        "college_name": "University of Oxford",
+        "admission_dates": {
+            "fall": "October 1, 2023",
+            "spring": "January 10, 2024"
+        },
+        "events": [
+            "Matriculation Day",
+            "Oxford Union Debates",
+            "Literary Festival"
+        ],
+        "research_history": "The University of Oxford has a storied history of pioneering research across various academic domains.",
+        "sports": {
+            "categories": [
+                "Cricket",
+                "Rowing",
+                "Rugby",
+                "Tennis"
+            ]
+        },
+        "admission_process": "Applicants need to submit their academic transcripts, personal statement, and letters of recommendation.",
+        "events_details": "Matriculation Day marks the formal admission of new students into the University of Oxford.",
+        "research_works": {
+            "title": "Medieval History: Unraveling the Past",
+            "authors": "William Clark",
+            "publication_date": "May 2023",
+            "description": "This research delves into the complexities of medieval history and sheds light on pivotal events."
+        },
+        "college_rating": 4.8,
+        "number_of_research": 60
+    },
+    {
+        "college_image": "https://reachivy.com/uploads/top_university_mba/MIT-1.jpg",
+        "college_name": "Massachusetts Institute of Technology (MIT)",
+        "admission_dates": {
+            "fall": "August 28, 2023",
+            "spring": "January 2, 2024"
+        },
+        "events": [
+            "MIT Hacking Challenge",
+            "Tech Expo",
+            "MIT Innovation Symposium"
+        ],
+        "research_history": "MIT is a pioneer in technological research and has a history of groundbreaking innovations.",
+        "sports": {
+            "categories": [
+                "Swimming",
+                "Volleyball",
+                "Badminton",
+                "Track and Field"
+            ]
+        },
+        "admission_process": "Applicants must complete the MIT online application, including standardized test scores and interviews.",
+        "events_details": "The MIT Hacking Challenge is an annual event where students showcase their coding and problem-solving skills.",
+        "research_works": {
+            "title": "Nanotechnology: Shaping the Future",
+            "authors": "Emma Wilson",
+            "publication_date": "June 2023",
+            "description": "This research paper discusses the potential of nanotechnology in revolutionizing various industries."
+        },
+        "college_rating": 4.7,
+        "number_of_research": 85
+    },
+    {
+        "college_image": "https://images.shiksha.com/mediadata/images/1533535408phpRuopAS.jpeg",
+        "college_name": "Stanford University",
+        "admission_dates": {
+            "fall": "September 15, 2023",
+            "spring": "January 7, 2024"
+        },
+        "events": [
+            "Admit Weekend",
+            "Stanford Research Conference",
+            "Big Game"
+        ],
+        "research_history": "Stanford University is renowned for its impactful research in various fields, fostering innovation.",
+        "sports": {
+            "categories": [
+                "Tennis",
+                "Soccer",
+                "Golf",
+                "Swimming"
+            ]
+        },
+        "admission_process": "Prospective students must complete the Common Application and submit standardized test scores.",
+        "events_details": "The Big Game is an annual football rivalry between Stanford and the University of California, Berkeley.",
+        "research_works": {
+            "title": "Clean Energy Solutions: Towards a Sustainable Future",
+            "authors": "Michael Brown",
+            "publication_date": "May 2023",
+            "description": "This research paper explores innovative clean energy solutions to combat climate change and promote sustainability."
+        },
+        "college_rating": 4.8,
+        "number_of_research": 67
+    },
+    {
+        "college_image": "https://i2-prod.cambridge-news.co.uk/news/cambridge-news/article24183175.ece/ALTERNATES/s1200d/0_JS238376993.jpg",
+        "college_name": "Cambridge University",
+        "admission_dates": {
+            "fall": "September 5, 2023",
+            "spring": "January 20, 2024"
+        },
+        "events": [
+            "Matriculation Ceremony",
+            "Cambridge Science Festival",
+            "May Ball"
+        ],
+        "research_history": "Cambridge University has a rich legacy of significant contributions to research and academia.",
+        "sports": {
+            "categories": [
+                "Rowing",
+                "Cricket",
+                "Rugby",
+                "Tennis"
+            ]
+        },
+        "admission_process": "Prospective students need to apply through the UCAS system and may be required to attend interviews.",
+        "events_details": "The Matriculation Ceremony marks the official induction of new students into the University of Cambridge.",
+        "research_works": {
+            "title": "Medicine of the Future: Innovations in Biomedical Research",
+            "authors": "Robert Green",
+            "publication_date": "April 2023",
+            "description": "This research paper highlights groundbreaking discoveries in biomedical research and their potential medical applications."
+        },
+        "college_rating": 4.7,
+        "number_of_research": 80
+    },
+    {
+        "college_image": "https://www.thoughtco.com/thmb/252w_c8aFsIajuseT7swnrlSUR4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-458411541-7cc7187ad6e94a52a77b63ec40088605.jpg",
+        "college_name": "California Institute of Technology (Caltech)",
+        "admission_dates": {
+            "fall": "August 25, 2023",
+            "spring": "January 5, 2024"
+        },
+        "events": [
+            "Frosh Camp",
+            "Techstock",
+            "Nobel Laureate Lecture Series"
+        ],
+        "research_history": "Caltech is renowned for pioneering research and has a legacy of producing Nobel laureates.",
+        "sports": {
+            "categories": [
+                "Swimming",
+                "Soccer",
+                "Volleyball",
+                "Water Polo"
+            ]
+        },
+        "admission_process": "Applicants must complete the Common Application and provide academic records and recommendation letters.",
+        "events_details": "Frosh Camp is a fun-filled orientation program to welcome new students and introduce them to campus life.",
+        "research_works": {
+            "title": "Quantum Computing: Harnessing the Power of Qubits",
+            "authors": "Emma Adams",
+            "publication_date": "June 2023",
+            "description": "This research paper explores the potential of quantum computing in solving complex problems efficiently."
+        },
+        "college_rating": 4.9,
+        "number_of_research": 65
+    }
+]
